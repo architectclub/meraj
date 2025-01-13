@@ -4685,6 +4685,54 @@ h6 {
   }
 }
 
+.portfolio_area {
+  padding: 50px 0;
+}
+
+.portfolio_box {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.portfolio_box img {
+  border-bottom: 3px solid #2575fc;
+}
+
+.short_info {
+  padding: 20px;
+  background: white;
+  text-align: center;
+}
+
+.short_info a {
+  color: #2575fc;
+  text-decoration: none;
+}
+
+
+/* Footer */
+.footer_area {
+  background: #ffffff;
+  color: #8ea2b8;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer_social a {
+  color: white;
+  margin: 0 10px;
+  transition: color 0.3s;
+}
+
+.footer_social a:hover {
+  color: #007bff;
+}
+
+.footer_text {
+  margin: 20px 0 0;
+}
 
 /* End Footer Area css
 ============================================================================================ */
